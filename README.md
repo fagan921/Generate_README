@@ -11,6 +11,7 @@
 - Tests
 - License
 - Questions
+- Video Link
   
 ## ⨲ Description
   *This is a JavaScript application that generates a README.md file based on the answers to prompts, utilizing the Iquirer package.*
