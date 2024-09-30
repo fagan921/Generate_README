@@ -1,6 +1,6 @@
 # ⨳ Generate_README
 
-!License
+Apache_2.0
 
 ## Table of Contents
 - Description
